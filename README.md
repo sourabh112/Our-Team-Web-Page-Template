@@ -1,2 +1,2 @@
-# Our-Team-Web-Page-Template
-Our team Web page Template
+# Our-Team-Web-page-Template
+Our team web page template
